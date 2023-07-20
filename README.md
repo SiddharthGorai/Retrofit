@@ -1,7 +1,9 @@
 # Retrofit
 
-create an api interface then create a data class which has the data type same as the json file.
+Create an api interface then create a data class which has the data type same as the json file.
 
-create a retrofitInstance object which contains the retrofit builder reffering api interface.
+The API interface contains methods to get, post, update data to api.
 
-setup recycler view adapter and show data from the api.
+Create a retrofitInstance object which contains the retrofit builder reffering api interface.
+
+Setup recycler view adapter and show data from the api.
